@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>ui/bg.png</file>
+        <file>ui/exit.png</file>
+        <file>ui/frame3.png</file>
+        <file>ui/push.png</file>
+        <file>ui/push2.png</file>
+        <file>ui/201909271220430vlYm.jpg</file>
+        <file>ui/button (2).png</file>
+        <file>ui/button (3).png</file>
+        <file>ui/button (4).png</file>
+        <file>ui/button (1).png</file>
+        <file>ui/1.png</file>
+    </qresource>
+</RCC>
